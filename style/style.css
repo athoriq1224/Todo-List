@@ -72,7 +72,7 @@ body{
 }
  
 .inputField button.active{
-    opacity: 1;
+    opacity: 2;
     pointer-events: auto;
 }
  
